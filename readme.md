@@ -9,11 +9,14 @@
 ### Connect with me:
 
   >[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-    [Portfolio][website] <br />
+    [Portfolio][website] 
+    <br />
   >[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-    [LinkedIn][linkedin] <br />
+    [LinkedIn][linkedin] 
+    <br />
   >[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googledrive.svg" />][resume]
-    [Resume][resume] <br />
+    [Resume][resume] 
+   
 
 <br />
 
