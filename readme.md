@@ -8,13 +8,13 @@
 
 ### Connect with me:
 
-  >[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+  [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
     [Portfolio][website] 
     <br />
-  >[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
     [LinkedIn][linkedin] 
     <br />
-  >[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googledrive.svg" />][resume]
+  [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googledrive.svg" />][resume]
     [Resume][resume] 
    
 
