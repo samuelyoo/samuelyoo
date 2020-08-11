@@ -1,6 +1,5 @@
-## Hi there, I'm Samuel Yoo - aka [Kuro Sammy][website]
+## Hi there, I'm Samuel Yoo - [Kuro Sammy][website]
 
-## I'm a Husband, Father, Developer, and Teacher!
 - I’m currently working as a Fullstack Developer.
 - I’m always studying new languages!! (working on JAVA and Python)
 - I’m open for collaborating.
