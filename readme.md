@@ -1,4 +1,4 @@
-## Hi there, I'm Samuel Yoo - [Kuro Sammy][website]
+## Hi there, I'm Samuel Yoo - [Kuro Sammy]
 
 - I’m currently working as a Fullstack Developer.
 - I’m always studying new languages!! (working on JAVA and Python)
