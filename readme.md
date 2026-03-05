@@ -1,10 +1,4 @@
-## Hi there, I'm Samuel Yoo - [Kuro Sammy]
-
-- I’m currently working as a Fullstack Developer.
-- I’m always studying new languages!! (working on JAVA, Python, and PHP)
-- I’m open for collaborating.
-- 2020 Goals: Build web-dev courses for kids!
-- Yes, my dog name is Kuro :)
+## Hi there, I'm Samuel Yoo 
 <!--
 ### Connect with me:
 
