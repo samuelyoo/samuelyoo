@@ -1,5 +1,7 @@
 ## Hi there, I'm Samuel Yoo 
-![](https://komarev.com/ghpvc/?username=samuelyoo&style=plastic)
+
+<img src="https://komarev.com/ghpvc/?username=samuelyoo&style=plastic" width="1" height="1" alt="">[]
+
 <!--
 ### Connect with me:
 
@@ -11,6 +13,7 @@
     <br /><br />
   [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googledrive.svg" />][resume]
     [Resume][resume] 
+![](https://komarev.com/ghpvc/?username=samuelyoo&style=plastic)
    
 
 <br />
