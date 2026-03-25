@@ -1,4 +1,5 @@
 ## Hi there, I'm Samuel Yoo 
+![](https://komarev.com/ghpvc/?username=samuelyoo&style=plastic)
 <!--
 ### Connect with me:
 
